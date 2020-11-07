@@ -1,0 +1,723 @@
+C:\Users\kasim\PycharmProjects\Homework1\venv\Scripts\python.exe C:/Users/kasim/PycharmProjects/Homework1/newhw1.py
+-------------------------------------------------------------------------------------------------------
+Game: 1
+A    A    .    .    .    O    
+P    .    .    Q    .    O    
+P    X    X    Q    .    O    
+P    .    .    Q    .    .    
+B    .    .    .    C    C    
+B    .    R    R    R    .    
+Time of execution: 1.5441157817840576
+OD1 RL1 CL1 OD1 CL2 OD1 AR1 QD1 PU1 BU1 RL1 QD1 XR4 
+ number of visited nodes: 1040
+herstic_id:  2
+ Penetrance:  0.015384615384615385
+avg H value:  2.7951923076923078
+EBF:  1.543705969966884
+Max depth:  16
+Min depth:  13
+Average depth:  13.781609195402298
+-------------------------------------------------------------------------------------------------------
+Game: 2
+A    .    .    O    O    O    
+A    .    .    B    .    P    
+X    X    .    B    C    P    
+Q    Q    Q    .    C    P    
+.    .    D    .    E    E    
+F    F    D    G    G    .    
+Time of execution: 1.6320652961730957
+XR1 OL2 EL1 PD1 AD1 OL1 BU1 PD1 CU2 XR4 
+ number of visited nodes: 1802
+herstic_id:  2
+ Penetrance:  0.00776914539400666
+avg H value:  3.390677025527192
+EBF:  1.708259770323034
+Max depth:  14
+Min depth:  9
+Average depth:  11.430025445292621
+-------------------------------------------------------------------------------------------------------
+Game: 3
+.    .    .    .    .    .    
+.    .    .    .    .    .    
+.    X    X    O    .    .    
+.    A    A    O    .    P    
+.    B    .    O    .    P    
+.    B    C    C    .    P    
+Time of execution: 0.491715669631958
+PU2 OU2 PU1 AR3 BU1 CL1 OD3 XR1 BU3 XL1 OU3 AL3 OD3 XR2 PD3 XR2 
+ number of visited nodes: 763
+herstic_id:  2
+ Penetrance:  0.04325032765399738
+avg H value:  2.656618610747051
+EBF:  1.2227825388054097
+Max depth:  33
+Min depth:  30
+Average depth:  31.3125
+-------------------------------------------------------------------------------------------------------
+Game: 4
+O    .    .    P    .    .    
+O    .    .    P    .    .    
+O    X    X    P    .    .    
+.    .    A    Q    Q    Q    
+.    .    A    .    .    B    
+.    .    R    R    R    B    
+Time of execution: 0.31083106994628906
+OD3 XL1 AU3 XR1 OU2 RL1 QL2 OU1 QL1 PD1 RL1 PD2 XR4 
+ number of visited nodes: 399
+herstic_id:  2
+ Penetrance:  0.05513784461152882
+avg H value:  2.4962406015037595
+EBF:  1.3128830479336298
+Max depth:  22
+Min depth:  19
+Average depth:  20.363636363636363
+-------------------------------------------------------------------------------------------------------
+Game: 5
+A    A    .    O    .    B    
+P    .    .    O    Q    B    
+P    X    X    O    Q    G    
+P    R    R    R    Q    G    
+D    .    .    .    E    E    
+D    .    .    .    F    F    
+Time of execution: 2.081786870956421
+AR1 PU1 RL1 EL2 FL2 EL1 OD2 FL1 OD1 XR1 QD2 GD1 XR3 
+ number of visited nodes: 2256
+herstic_id:  2
+ Penetrance:  0.007978723404255319
+avg H value:  3.5057624113475176
+EBF:  1.5356654604415738
+Max depth:  18
+Min depth:  14
+Average depth:  15.087467362924283
+-------------------------------------------------------------------------------------------------------
+Game: 6
+A    A    .    B    .    .    
+C    C    .    B    O    P    
+.    X    X    Q    O    P    
+D    D    E    Q    O    P    
+F    .    E    Q    .    .    
+F    .    .    R    R    R    
+Time of execution: 1.4651858806610107
+OD1 XL1 PD1 EU2 RL2 EU1 DR1 OD1 XR1 FU1 RL1 PD1 QD1 XR4 
+ number of visited nodes: 1697
+herstic_id:  2
+ Penetrance:  0.01060695344725987
+avg H value:  3.9086623453152622
+EBF:  1.51156479695543
+Max depth:  18
+Min depth:  13
+Average depth:  14.93
+-------------------------------------------------------------------------------------------------------
+Game: 7
+.    A    B    B    C    D    
+.    A    .    E    C    D    
+.    X    X    E    .    F    
+.    .    I    I    .    F    
+.    .    .    H    .    .    
+.    .    .    H    .    .    
+Time of execution: 2.100770950317383
+FD1 CD1 BR1 DD1 BR1 EU1 XR1 AD3 XL1 ED1 BL2 CU1 BL1 EU1 XR2 DU1 XR2 
+ number of visited nodes: 2498
+herstic_id:  2
+ Penetrance:  0.008406725380304243
+avg H value:  2.932746196957566
+EBF:  1.4514100164628956
+Max depth:  21
+Min depth:  17
+Average depth:  19.072371415566682
+-------------------------------------------------------------------------------------------------------
+Game: 8
+.    .    .    A    A    O    
+.    .    B    B    C    O    
+X    X    D    E    C    O    
+F    F    D    E    G    G    
+H    H    I    P    P    P    
+K    K    I    Q    Q    Q    
+Time of execution: 0.6476454734802246
+BL2 AL3 DU2 EU1 XR1 GL1 EU1 CU1 XR1 IU1 XR1 OD1 IU1 PL1 OD1 QL1 OD1 XR2 
+ number of visited nodes: 951
+herstic_id:  2
+ Penetrance:  0.023133543638275498
+avg H value:  3.7034700315457414
+EBF:  1.3657519890353125
+Max depth:  20
+Min depth:  17
+Average depth:  19.0
+-------------------------------------------------------------------------------------------------------
+Game: 9
+.    A    B    B    C    C    
+.    A    .    D    E    E    
+X    X    .    D    O    F    
+P    Q    Q    Q    O    F    
+P    .    G    .    O    H    
+P    .    G    .    .    H    
+Time of execution: 0.22585558891296387
+XR1 PU3 QL1 DD2 XR1 AD1 BL1 CL1 EL1 FU2 OD1 XR3 
+ number of visited nodes: 371
+herstic_id:  2
+ Penetrance:  0.04582210242587601
+avg H value:  2.504043126684636
+EBF:  1.4162490832271895
+Max depth:  17
+Min depth:  14
+Average depth:  15.17910447761194
+-------------------------------------------------------------------------------------------------------
+Game: 10
+A    A    B    .    C    C    
+D    D    B    .    .    O    
+P    X    X    .    .    O    
+P    Q    Q    Q    .    O    
+P    .    .    E    F    F    
+G    G    .    E    H    H    
+Time of execution: 1.3252551555633545
+XR2 BD1 QR1 CL1 OU1 QR1 BD1 DR1 BD2 PU1 XL2 QL1 AR1 PU1 QL2 EU3 OD1 FL1 CR1 EU1 XR2 HL1 OD2 XR2 
+ number of visited nodes: 1851
+herstic_id:  2
+ Penetrance:  0.01728795245813074
+avg H value:  2.2252836304700163
+EBF:  1.2650463869310966
+Max depth:  32
+Min depth:  29
+Average depth:  30.232323232323232
+-------------------------------------------------------------------------------------------------------
+Game: 11
+O    A    A    P    .    .    
+O    .    .    P    .    .    
+O    X    X    P    .    .    
+.    .    B    Q    Q    Q    
+.    .    B    .    .    E    
+.    .    R    R    R    E    
+Time of execution: 0.5096888542175293
+OD3 XL1 BU2 QL1 EU3 QR1 BD2 XR1 OU2 RR1 BD1 QL1 OU1 QL2 PD1 AR3 PU1 QR1 OD3 XL1 QR2 BU4 XR1 OU1 QL1 OU2 QL2 RL3 PD3 XR2 ED2 XR2 
+ number of visited nodes: 838
+herstic_id:  2
+ Penetrance:  0.06682577565632458
+avg H value:  2.600238663484487
+EBF:  1.1277187104328654
+Max depth:  56
+Min depth:  53
+Average depth:  54.75
+-------------------------------------------------------------------------------------------------------
+Game: 12
+A    B    B    .    .    O    
+A    .    P    .    .    O    
+X    X    P    .    .    O    
+.    .    P    Q    Q    Q    
+.    .    .    .    C    .    
+R    R    R    .    C    .    
+Time of execution: 0.4487473964691162
+BR2 PU1 QL2 CU3 QR2 PD1 RR2 BL1 RR1 CU1 PD2 XR3 BL1 PU2 AD1 BL1 PU1 QL1 OD2 RL1 OD1 XR2 
+ number of visited nodes: 729
+herstic_id:  2
+ Penetrance:  0.04526748971193416
+avg H value:  3.039780521262003
+EBF:  1.2210946234986555
+Max depth:  33
+Min depth:  29
+Average depth:  30.731225296442688
+-------------------------------------------------------------------------------------------------------
+Game: 13
+A    A    B    B    C    .    
+.    .    D    .    C    O    
+.    E    D    X    X    O    
+P    E    .    F    F    O    
+P    .    .    G    H    H    
+P    I    I    G    K    K    
+Time of execution: 8.282259941101074
+ED1 DD2 XL2 CD1 XL1 OU1 DU1 FR1 GU3 FL1 BR1 HL1 OD1 HL1 DU1 FL1 BR1 CD1 OD1 CD1 DU1 KL1 XR1 GU1 XR2 OD1 XR2 
+ number of visited nodes: 9709
+herstic_id:  2
+ Penetrance:  0.003295911010402719
+avg H value:  3.4743021938407663
+EBF:  1.332291334494229
+Max depth:  32
+Min depth:  27
+Average depth:  29.566958122411414
+-------------------------------------------------------------------------------------------------------
+Game: 14
+A    A    B    .    .    .    
+.    .    B    .    C    C    
+D    E    X    X    F    G    
+D    E    H    H    F    G    
+.    .    I    .    J    J    
+K    K    I    .    .    .    
+Time of execution: 9.784397840499878
+ED1 XL1 DD1 XL1 BD1 AR3 BU1 XR2 EU3 XL1 JL1 HL1 DU2 HL1 DU1 XL1 GD1 IU2 JL2 FD1 JL1 ID1 XR5 
+ number of visited nodes: 9985
+herstic_id:  2
+ Penetrance:  0.0034051076614922383
+avg H value:  2.7662493740610916
+EBF:  1.3110760511285977
+Max depth:  34
+Min depth:  30
+Average depth:  32.0335
+-------------------------------------------------------------------------------------------------------
+Game: 15
+.    A    A    B    B    .    
+C    C    D    D    O    P    
+Q    R    X    X    O    P    
+Q    R    E    F    O    P    
+Q    R    E    F    G    G    
+.    H    H    I    I    .    
+Time of execution: 0.31381916999816895
+IR1 HR1 RD1 QD1 XL2 FU1 EU1 GL2 BR1 OD1 PD1 DR1 EU1 DR1 FU2 AL1 EU1 XR2 RU1 HL1 IL1 PD1 QU1 HL1 IL1 OD1 XR3 
+ number of visited nodes: 523
+herstic_id:  2
+ Penetrance:  0.06118546845124283
+avg H value:  3.795411089866157
+EBF:  1.2160548880837312
+Max depth:  32
+Min depth:  30
+Average depth:  31.2
+-------------------------------------------------------------------------------------------------------
+Game: 16
+A    A    B    B    C    O    
+D    .    E    E    C    O    
+D    F    P    X    X    O    
+.    F    P    Q    Q    Q    
+.    .    P    .    .    .    
+G    G    .    .    .    .    
+Time of execution: 1.7769644260406494
+DD1 EL1 PD1 XL1 FD1 CD1 DD1 XL2 PU1 GR1 EL1 PU1 BR1 PU1 QL1 GR1 FD1 QL1 CD3 QR1 FU1 QR1 GL2 PD3 XR3 PU3 QL1 OD3 XR2 
+ number of visited nodes: 2409
+herstic_id:  2
+ Penetrance:  0.017019510170195103
+avg H value:  2.7355749273557493
+EBF:  1.209160146066696
+Max depth:  41
+Min depth:  37
+Average depth:  39.66315789473684
+-------------------------------------------------------------------------------------------------------
+Game: 17
+A    O    O    O    .    .    
+A    .    B    B    C    C    
+X    X    D    .    .    .    
+E    E    D    P    .    .    
+Q    Q    Q    P    F    G    
+R    R    R    P    F    G    
+Time of execution: 1.60709810256958
+FU1 GU1 BL1 PU2 FU1 QR2 GU1 QR1 RR3 DD2 ER1 XR1 OR2 AD2 BL1 AD1 XL1 AD1 EL1 DU3 RL1 DU1 QL1 ER1 RL1 XR1 AU2 QL1 FD1 QL1 RL1 PD2 GD1 XR4 
+ number of visited nodes: 2122
+herstic_id:  2
+ Penetrance:  0.022148916116870875
+avg H value:  3.7120640904806788
+EBF:  1.1770145094968645
+Max depth:  47
+Min depth:  43
+Average depth:  45.42727272727273
+-------------------------------------------------------------------------------------------------------
+Game: 18
+A    A    B    O    .    .    
+C    C    B    O    .    .    
+P    X    X    O    .    .    
+P    Q    Q    Q    .    .    
+P    D    D    .    .    .    
+R    R    R    .    .    .    
+Time of execution: 0.9484381675720215
+RR1 PD1 XL1 QR1 BD1 DR2 QR1 BD2 XR1 PU1 CR1 PU1 RR2 BD1 QL2 AR1 PU1 QL1 OD1 AR2 DR1 AR1 OD1 CR3 OU2 QR3 PD3 XL1 BU4 QL2 XR1 PU3 QL1 OD2 RL3 OD1 XR4 
+ number of visited nodes: 1599
+herstic_id:  2
+ Penetrance:  0.0375234521575985
+avg H value:  2.196372732958099
+EBF:  1.1308303982461703
+Max depth:  60
+Min depth:  58
+Average depth:  59.19047619047619
+-------------------------------------------------------------------------------------------------------
+Game: 19
+.    .    A    B    B    .    
+.    .    A    .    J    .    
+.    D    X    X    J    .    
+.    D    E    E    F    .    
+.    O    O    O    F    .    
+.    .    .    .    .    .    
+Time of execution: 0.2868340015411377
+DU2 XL2 AD1 BL1 JU1 FU1 OR1 EL1 OR1 EL1 AD3 XR1 ER1 XR1 DD1 ER1 BL1 DD3 EL2 XL2 BL1 AU2 OL1 AU1 ER1 AU1 ER1 XR2 DU2 OL1 FD1 XR3 
+ number of visited nodes: 474
+herstic_id:  2
+ Penetrance:  0.09282700421940929
+avg H value:  2.2848101265822787
+EBF:  1.1503053618019061
+Max depth:  44
+Min depth:  43
+Average depth:  43.72
+-------------------------------------------------------------------------------------------------------
+Game: 20
+A    .    .    O    O    O    
+A    B    B    C    .    .    
+X    X    D    C    .    P    
+.    .    D    .    .    P    
+.    .    E    F    F    P    
+.    .    E    Q    Q    Q    
+Time of execution: 0.6776134967803955
+CD1 BR2 DU2 EU2 FL3 QL1 ED1 XR1 CD1 PD1 XR4 
+ number of visited nodes: 1013
+herstic_id:  2
+ Penetrance:  0.017769002961500493
+avg H value:  2.9299111549851924
+EBF:  1.4688528914884311
+Max depth:  18
+Min depth:  14
+Average depth:  15.9512987012987
+-------------------------------------------------------------------------------------------------------
+Game: 21
+A    A    B    O    .    .    
+P    .    B    O    .    .    
+P    X    X    O    .    .    
+P    Q    Q    Q    .    .    
+.    .    .    .    .    .    
+.    .    .    R    R    R    
+Time of execution: 0.11393475532531738
+PD2 XL1 BD1 QR2 BD2 AR1 BD1 QL2 XR1 PU3 QL1 OD1 AR3 OU1 QR1 PD2 QR1 PD1 QR1 XL1 BU4 XR1 RL2 QL2 PU1 RL1 PU2 QL1 OD3 XR4 
+ number of visited nodes: 260
+herstic_id:  2
+ Penetrance:  0.18846153846153846
+avg H value:  2.1115384615384616
+EBF:  1.1201731802670085
+Max depth:  49
+Min depth:  49
+Average depth:  49.0
+-------------------------------------------------------------------------------------------------------
+Game: 22
+.    .    A    O    O    O    
+B    .    A    P    C    C    
+B    X    X    P    .    .    
+.    D    .    P    E    E    
+F    D    G    G    .    H    
+F    Q    Q    Q    .    H    
+Time of execution: 3.448045015335083
+BU1 XL1 AD2 GR1 AD1 OL1 XR1 OL1 BD1 OL1 PU1 EL1 QR1 HU1 QR1 AD1 EL1 DD1 EL1 HU1 PD1 GR1 PD1 CL3 PU2 ER2 DU1 HU1 ER1 AU1 PD2 FU1 QL3 PD1 XR1 HU1 XR3 
+ number of visited nodes: 4249
+herstic_id:  2
+ Penetrance:  0.010826076723935044
+avg H value:  2.6615674276300307
+EBF:  1.199156313966526
+Max depth:  46
+Min depth:  42
+Average depth:  43.717171717171716
+-------------------------------------------------------------------------------------------------------
+Game: 23
+.    .    O    O    O    P    
+.    .    A    B    B    P    
+.    .    A    X    X    P    
+.    .    C    D    E    E    
+.    .    C    D    F    F    
+.    .    Q    Q    Q    .    
+Time of execution: 1.6130762100219727
+QL2 DD1 EL1 PD1 OR1 AU1 XL3 AD1 OL1 PU1 ER1 DU1 QR3 CD1 AD1 BL2 DU2 EL1 BL1 PD1 AU1 OR1 EL2 FL1 AU1 EL1 DD1 CU2 FL3 CD1 DD1 PD1 QL1 XR2 PD1 XR3 
+ number of visited nodes: 2274
+herstic_id:  2
+ Penetrance:  0.021547933157431837
+avg H value:  3.3240985048372913
+EBF:  1.1708625835218922
+Max depth:  49
+Min depth:  45
+Average depth:  46.739543726235745
+-------------------------------------------------------------------------------------------------------
+Game: 24
+.    .    A    B    B    .    
+.    C    A    .    .    .    
+D    C    X    X    E    .    
+D    F    F    .    E    .    
+O    O    O    .    G    .    
+H    H    .    .    G    .    
+Time of execution: 3.3370699882507324
+CU1 XL1 OR1 EU1 GU1 DD1 HR1 DD1 XL1 AD1 BL1 EU1 FL1 GU1 AD1 OR1 HR1 OR1 AD1 XR1 HR1 AD1 FR2 XR1 CD4 FL2 AU1 XL2 AU1 BL1 AU1 FR1 BL1 FR1 CU1 AU1 OL1 XR2 CU1 OL1 GD1 XR3 
+ number of visited nodes: 4165
+herstic_id:  2
+ Penetrance:  0.012004801920768308
+avg H value:  2.2252100840336135
+EBF:  1.1813873061626827
+Max depth:  50
+Min depth:  48
+Average depth:  49.15094339622642
+-------------------------------------------------------------------------------------------------------
+Game: 25
+A    A    B    .    C    C    
+D    D    B    .    .    O    
+P    X    X    .    E    O    
+P    Q    Q    Q    E    O    
+P    F    .    G    H    H    
+.    F    .    G    I    I    
+Time of execution: 7.900496482849121
+PD1 CL1 XL1 OU1 EU1 QR2 BD3 XR1 DR1 AR1 BD1 QL1 PU3 QL2 GU3 QR1 PD2 QR1 PD1 QR1 BU1 XL1 BU1 DL1 BU1 QL1 OD1 CR1 AL1 IL1 HL2 BU1 GU1 OD1 QL1 XR1 ED2 XR2 OD1 XR2 
+ number of visited nodes: 8685
+herstic_id:  2
+ Penetrance:  0.0059873344847438115
+avg H value:  3.4612550374208406
+EBF:  1.1905443368209498
+Max depth:  52
+Min depth:  47
+Average depth:  49.66112956810631
+-------------------------------------------------------------------------------------------------------
+Game: 26
+.    A    .    O    O    O    
+B    A    .    C    P    .    
+B    X    X    C    P    D    
+E    R    R    R    P    D    
+E    .    F    .    .    G    
+.    .    F    H    H    G    
+Time of execution: 3.7528297901153564
+ED1 RL1 CD1 DU1 CD1 GU1 XR1 AD1 HR1 CD1 OL2 RR1 PU1 RR1 AD3 RL2 CU1 OL1 XL1 CU2 RR1 CU1 XR1 HL1 GD1 RR2 FU1 HL1 EU1 AU1 HL2 FD1 RL1 AU2 RL1 PD3 XR1 DU1 XR2 
+ number of visited nodes: 4673
+herstic_id:  2
+ Penetrance:  0.010485769313075112
+avg H value:  3.323774876952707
+EBF:  1.188200442608577
+Max depth:  49
+Min depth:  44
+Average depth:  45.72783505154639
+-------------------------------------------------------------------------------------------------------
+Game: 27
+A    B    B    O    .    .    
+A    C    C    O    .    .    
+X    X    D    O    .    P    
+.    .    D    E    E    P    
+.    .    F    .    .    P    
+.    .    F    R    R    R    
+Time of execution: 1.7090206146240234
+PU2 ER1 OD1 BR2 OD1 CR2 DU2 XR1 AD3 XL1 DD2 CL2 OU1 BL1 AD1 BL1 OU1 EL1 CL1 PD2 DU1 EL3 DD1 CR1 OD1 BL1 OD1 CR2 DU2 ER1 XR1 AU3 EL1 FU1 RL3 PD1 OD1 XR4 
+ number of visited nodes: 2555
+herstic_id:  2
+ Penetrance:  0.022309197651663407
+avg H value:  3.3268101761252447
+EBF:  1.147568946978382
+Max depth:  57
+Min depth:  53
+Average depth:  54.705882352941174
+-------------------------------------------------------------------------------------------------------
+Game: 28
+O    O    O    A    .    .    
+.    .    P    A    B    B    
+X    X    P    .    .    .    
+C    D    P    E    E    Q    
+C    D    R    R    R    Q    
+F    F    G    G    .    Q    
+Time of execution: 1.3612117767333984
+GR1 AD1 OR1 FR1 OR2 QU1 GR1 PU1 FR1 EL1 DD1 EL1 AD1 BL1 QU1 CD1 RR1 EL1 PD2 BL3 PU2 ER1 AU1 ER2 PD1 OL2 CU1 DU1 OL1 FL2 PD1 AU1 PD1 XR3 PU2 GL1 RL1 QD2 XR2 
+ number of visited nodes: 1865
+herstic_id:  2
+ Penetrance:  0.027345844504021447
+avg H value:  3.3576407506702415
+EBF:  1.1591268276694446
+Max depth:  51
+Min depth:  47
+Average depth:  49.70598290598291
+-------------------------------------------------------------------------------------------------------
+Game: 29
+O    O    O    .    P    .    
+.    .    A    .    P    .    
+X    X    A    .    P    B    
+C    D    D    E    E    B    
+C    F    F    G    .    H    
+R    R    R    G    .    H    
+Time of execution: 3.207160711288452
+BU1 ER1 GU3 RR1 CD1 DL1 FR1 EL1 HU1 AD1 FR1 AD1 RR2 AD1 OR1 XR1 DR1 CU3 DL1 CU1 AU1 XL1 AU1 FL2 AU1 RL1 HD1 ER1 GD2 RL2 GD1 EL2 PD1 OR2 AU1 PD1 XR2 PD1 XR1 AD1 OL1 BU1 XR2 
+ number of visited nodes: 4287
+herstic_id:  2
+ Penetrance:  0.012596221133659902
+avg H value:  3.993468626078843
+EBF:  1.167514012166312
+Max depth:  54
+Min depth:  51
+Average depth:  52.90909090909091
+-------------------------------------------------------------------------------------------------------
+Game: 30
+O    .    A    P    P    P    
+O    .    A    B    .    .    
+O    X    X    B    .    .    
+C    C    D    D    .    Q    
+.    .    .    .    .    Q    
+E    E    F    F    .    Q    
+Time of execution: 0.7275846004486084
+DR1 CR1 OD1 FR1 ER1 OD2 QU1 XL1 AD1 PL1 QU2 DR1 BD2 FR1 BD1 DL1 QD1 PR1 AU1 XR1 OU3 XR2 AD1 EL1 CL1 AD3 XL2 PL1 QU1 DR1 BU2 CR1 BU1 DL1 QD1 FL1 PL1 QD2 OD1 PL1 BU1 XR4 
+ number of visited nodes: 1168
+herstic_id:  2
+ Penetrance:  0.04708904109589041
+avg H value:  2.38527397260274
+EBF:  1.1370293835838658
+Max depth:  55
+Min depth:  53
+Average depth:  53.57142857142857
+-------------------------------------------------------------------------------------------------------
+Game: 31
+A    A    .    O    O    O    
+.    .    .    B    C    C    
+D    X    X    B    .    P    
+D    .    Q    E    E    P    
+F    F    Q    .    .    P    
+.    .    Q    R    R    R    
+Time of execution: 2.6005115509033203
+AR1 DU2 XL1 QU2 FR3 QD2 XR1 DD2 AL1 DD1 XL1 QU3 EL2 DD1 EL1 QD3 XR1 BD1 CL1 PU1 FR1 BD1 XR2 QU3 ER1 DU3 EL1 QD3 XL2 BU1 FL1 AR1 DU1 XL1 QU2 FL3 QD1 BD1 QD1 XR3 QU1 RL1 PD2 XR2 
+ number of visited nodes: 3847
+herstic_id:  2
+ Penetrance:  0.017936054068105018
+avg H value:  3.2456459578892645
+EBF:  1.1270892110323572
+Max depth:  69
+Min depth:  65
+Average depth:  67.51515151515152
+-------------------------------------------------------------------------------------------------------
+Game: 32
+A    A    O    B    C    C    
+.    .    O    B    .    .    
+X    X    O    .    .    .    
+D    E    E    F    F    P    
+D    .    .    K    .    P    
+H    H    .    K    .    P    
+Time of execution: 0.3128197193145752
+HR1 DD1 EL1 PU1 BD1 PU1 CL1 PU1 FR1 OD2 KU1 HR2 OD1 HR1 KD1 FL1 PD1 XR1 CR1 BU1 XR2 OU3 ER1 DU3 EL1 OD3 XL2 BD1 CL1 PU1 AR1 FR1 DU1 XL1 KU1 OU1 HL3 KD1 FL1 HL1 PD1 CR1 OD1 BU1 XR3 PD2 XR2 
+ number of visited nodes: 594
+herstic_id:  2
+ Penetrance:  0.10437710437710437
+avg H value:  3.207070707070707
+EBF:  1.1085071304449001
+Max depth:  62
+Min depth:  58
+Average depth:  60.357142857142854
+-------------------------------------------------------------------------------------------------------
+Game: 33
+.    A    R    .    B    B    
+.    A    R    .    .    .    
+X    X    R    .    .    .    
+I    D    D    E    E    P    
+I    F    F    G    H    P    
+Q    Q    Q    G    H    P    
+Time of execution: 2.7164463996887207
+BL1 PU3 ER1 GU1 QR1 ID1 GU2 EL1 DL1 EL1 HU3 FR1 ER1 FR1 RD2 QR1 ER1 QR1 GD1 RD1 XR1 FR1 GD1 XR1 AD1 BL1 HU1 BL1 XR1 BL1 RU3 DR1 IU3 DL1 RD2 BR2 RD1 XL1 AU1 XL1 IU1 GU1 XL1 RU2 FL3 GD1 FL1 RD2 XR3 RU1 QL3 GD1 EL1 PD3 XR2 
+ number of visited nodes: 3635
+herstic_id:  2
+ Penetrance:  0.021182943603851444
+avg H value:  4.060797799174691
+EBF:  1.1123470748545692
+Max depth:  77
+Min depth:  72
+Average depth:  74.43307086614173
+-------------------------------------------------------------------------------------------------------
+Game: 34
+A    .    .    R    R    R    
+A    .    .    B    .    P    
+X    X    .    B    C    P    
+Q    Q    Q    D    C    P    
+.    .    E    D    F    F    
+I    I    E    H    H    .    
+Time of execution: 3.1641879081726074
+RL1 PU1 XR1 AD1 HR1 RL1 DD1 QR1 AD1 RL1 AD1 CU1 QR2 EU1 XL1 EU2 IR1 AD1 QL3 DU1 BU1 DU1 FL3 DD1 PD1 BD1 RR3 DD1 QR1 AU1 EU1 XR1 AU3 IL1 XL1 FL1 ED1 QR1 RL1 PU1 QR1 ED2 XR1 AD1 RL1 ED1 RL1 QL3 BU1 DU1 XR1 HL1 CU1 XR1 PD3 XR2 
+ number of visited nodes: 4366
+herstic_id:  2
+ Penetrance:  0.01626202473660101
+avg H value:  3.815620705451214
+EBF:  1.1253012076562685
+Max depth:  70
+Min depth:  67
+Average depth:  68.66956521739131
+-------------------------------------------------------------------------------------------------------
+Game: 35
+.    .    O    A    A    P    
+.    .    O    B    .    P    
+X    X    O    B    .    P    
+K    Q    Q    Q    .    .    
+K    D    D    E    F    .    
+G    G    .    E    F    .    
+Time of execution: 2.6025092601776123
+PD1 AR1 BU1 GR1 KD1 QL1 EU2 FU1 DR1 FU1 DR2 ED2 QR1 KU1 GL1 FU1 QR1 BD1 AL1 PU1 QR1 OD3 XR1 KU3 XL1 OU3 QL3 PD1 EU1 AR1 BU1 EU1 DL3 ED2 QR2 BD1 AL1 PU1 QR1 OD1 AL2 DL1 BU1 OD2 XR2 FU1 XR1 KD1 OU1 AL1 OU2 QL1 PD3 XR2 
+ number of visited nodes: 3829
+herstic_id:  2
+ Penetrance:  0.019587359623922697
+avg H value:  3.888743797336119
+EBF:  1.1162834130004888
+Max depth:  75
+Min depth:  73
+Average depth:  74.01030927835052
+-------------------------------------------------------------------------------------------------------
+Game: 36
+O    P    P    P    A    A    
+O    B    C    C    .    Q    
+O    B    X    X    .    Q    
+R    R    R    D    .    Q    
+.    .    E    D    F    F    
+G    G    E    .    .    .    
+Time of execution: 1.452169418334961
+DD1 RR1 OD1 PL1 AL1 RR1 XR1 QU1 RR1 EU2 CR1 EU1 RL2 QD1 AR1 PR1 OU1 RL1 DU1 GR4 DD1 RR1 OD1 PL1 AL1 RR1 QU1 BD1 RR1 ED2 BD1 ED1 BD1 XL1 RL2 QD1 AR1 PR1 OU1 XL1 RL1 DU2 FL1 QD1 CR1 DU1 GL1 RR1 OD1 PL1 DU1 XR2 QD1 XR2 
+ number of visited nodes: 2136
+herstic_id:  2
+ Penetrance:  0.02949438202247191
+avg H value:  2.1352996254681647
+EBF:  1.129407879831826
+Max depth:  63
+Min depth:  60
+Average depth:  61.13581730769231
+-------------------------------------------------------------------------------------------------------
+Game: 37
+A    A    B    .    C    C    
+D    D    B    .    O    P    
+Q    X    X    .    O    P    
+Q    R    R    R    O    P    
+Q    .    .    E    F    F    
+G    G    .    E    H    H    
+Time of execution: 1.5720798969268799
+GR1 CL1 QD1 XL1 PU1 BD1 CL1 OU1 RR2 BD2 XR1 QU1 GL1 BD1 RL2 DR1 QU1 OD1 CR1 AR1 QU1 RL1 EU3 RR1 QD1 AL1 CL1 OU1 RR2 BU1 QD1 GR1 QD1 XL1 BU1 DL1 BU1 RL2 OD1 FL1 CR1 BU1 FL1 OD1 XR1 HL1 QU1 GL1 HL1 OD1 PD2 CR1 EU1 XR1 PD1 XR3 
+ number of visited nodes: 1942
+herstic_id:  2
+ Penetrance:  0.03347064881565397
+avg H value:  3.740473738414006
+EBF:  1.123539769614322
+Max depth:  65
+Min depth:  61
+Average depth:  63.12903225806452
+-------------------------------------------------------------------------------------------------------
+Game: 38
+A    .    .    O    O    O    
+A    B    B    C    .    .    
+X    X    D    C    .    R    
+.    .    D    E    E    R    
+.    .    F    G    G    R    
+.    .    F    Q    Q    Q    
+Time of execution: 2.2507102489471436
+RU1 OL1 RU1 ER1 CD1 BR2 DU1 GR1 FU1 CD1 QL3 CD1 EL1 RD1 OR1 DU1 XR1 AD3 XL1 DD1 OL1 RU1 ER1 CU1 QR3 FD1 CU1 DD1 BL2 CU1 EL1 AD1 BL1 DU1 EL3 DD1 BR1 CD1 BR2 DU1 RD1 ER1 AU1 OR1 DU1 XR1 AU2 EL1 AU1 XL1 FU2 QL1 GL4 CD1 FD1 XR3 RD2 XR2 
+ number of visited nodes: 3574
+herstic_id:  2
+ Penetrance:  0.021544487968662564
+avg H value:  3.1849468382764408
+EBF:  1.1121026209170997
+Max depth:  77
+Min depth:  73
+Average depth:  75.08166969147005
+-------------------------------------------------------------------------------------------------------
+Game: 39
+.    .    A    O    O    O    
+.    .    A    B    .    .    
+X    X    C    B    .    R    
+D    D    C    E    E    R    
+F    G    H    H    .    R    
+F    G    I    I    .    .    
+Time of execution: 2.2107317447662354
+HR1 CD1 RU1 AD1 OL1 RU1 ER1 IR2 BD1 HR1 BD2 EL1 RD1 OR1 AU1 XR1 CD1 XR2 AD1 DR1 OL1 RU1 ER1 DR1 GU3 DL1 GU1 FU1 EL1 RD1 OR1 FU1 AU1 XL1 FU1 XL1 FU1 XL1 AD1 OL1 RU1 ER1 BU2 HL1 BU1 DL1 CU1 EL1 RD1 OR1 AU1 CU1 HL3 CD1 AD1 OL1 RU1 ER1 BD1 IL3 BD2 EL1 RD1 OR1 AU1 XR2 RD2 XR3 
+ number of visited nodes: 3749
+herstic_id:  2
+ Penetrance:  0.021872499333155507
+avg H value:  2.942918111496399
+EBF:  1.1055651356717673
+Max depth:  82
+Min depth:  79
+Average depth:  80.94377510040161
+-------------------------------------------------------------------------------------------------------
+Game: 40
+O    A    A    .    B    .    
+O    C    D    .    B    P    
+O    C    D    X    X    P    
+Q    Q    Q    E    .    P    
+.    .    F    E    G    G    
+H    H    F    I    I    .    
+Time of execution: 1.9468858242034912
+IR1 ED1 QR1 OD2 AL1 QR1 DU1 CD1 PU1 QR1 XL1 FU1 HR1 CD1 OD1 XL2 DD1 AR2 BD1 AR1 DU1 XR1 OU2 XR1 CU1 HL1 CU2 OU1 FD1 QL3 EU1 XL1 EU1 PD1 AR1 EU2 XR1 QR2 CD3 XL1 ED1 AL1 PU1 QR1 FU1 OD2 HR1 OD1 XL1 DD1 AL3 DU1 XR1 OU1 HL1 EU1 BU1 IL1 XR1 FD1 GL1 QL1 PD1 XR1 PD2 XR2 
+ number of visited nodes: 2705
+herstic_id:  2
+ Penetrance:  0.029944547134935304
+avg H value:  2.822181146025878
+EBF:  1.1024843554431656
+Max depth:  81
+Min depth:  77
+Average depth:  78.95461422087746
+
+Process finished with exit code 0
